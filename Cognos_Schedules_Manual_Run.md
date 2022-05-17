@@ -115,7 +115,7 @@ Schedule (IST) - 12:30 ; 13:30 ; 14:30 ; 15:30 ; 16:30 ; 17:30 ; 18:30 ; 19:30
 
 
 ## Cabin Experience Daily Report
-#### Report Location - TTeam content > Maintenance and Engineering > Maintenance and Engineering Reports > me_ASOM > Scheduled Outputs > Anna
+#### Report Location - Team content > Maintenance and Engineering > Maintenance and Engineering Reports > me_ASOM > Scheduled Outputs > Anna
 
 | Step            |           Action                                      |
 |-----------------|-------------------------------------------------------|
