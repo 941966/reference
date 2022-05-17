@@ -28,17 +28,25 @@ Schedule (IST) - 12:30 ; 13:30 ; 14:30 ; 15:30 ; 16:30 ; 17:30 ; 18:30 ; 19:30
 
 
 #### Hourly Maintenance Summary(0700)
+| Step            |           Action                          |
+|-----------------|-------------------------------------------|
 |Subject          | Hourly Maintenance Summary(0700)          |
 |TO               | robert.isom@aa.com |
 |CC               | Murali.Aetukuri@aa.com; Z2094241.TEQ.Data.Production.Support1@aa.com |
 |BCC              | Craig.Barton@aa.com |
 
 #### Hourly Maintenance Summary(0720)
+
+| Step            |           Action                          |
+|-----------------|-------------------------------------------|
 |Subject          | Hourly Maintenance Summary(0720)          |
 |TO               | Evita.Garces@aa.com |
 |CC               | Murali.Aetukuri@aa.com; Z2094241.TEQ.Data.Production.Support1@aa.com |
 
 #### Hourly Maintenance Summary(0745)
+
+| Step            |           Action                          |
+|-----------------|-------------------------------------------|
 |Subject          | Hourly Maintenance Summary(0745)          |
 |TO               | Evita.Garces@aa.com; karl.ries@aa.com; Carlos.J.Jimenez@aa.com |
 |CC               | Murali.Aetukuri@aa.com; Z2094241.TEQ.Data.Production.Support1@aa.com |
@@ -69,11 +77,7 @@ Schedule (IST) - 12:30 ; 13:30 ; 14:30 ; 15:30 ; 16:30 ; 17:30 ; 18:30 ; 19:30
 |Check Options    | Send report by email, Attach the report               |
 |Uncheck Options  | All other options to be unchecked                     |
 |Subject          | DART Bottleneck Report                                |
-|Body             | A new version of DART Bottleneck Report is available (attached).
-
-Regards,
-
-TEQ Production Support |
+|Body             | A new version of DART Bottleneck Report is available (attached).<br>Regards,<br>TEQ Production Support |
 |TO               | DL_DART_Bottleneck_report@aa.com; Z2094241.TEQ.Data.Production.Support1@aa.com; Vishnu.Veeragoni@aa.com |
 
 
