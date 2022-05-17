@@ -1,4 +1,4 @@
-#Report Timings
+## Report Timings
 
 | IST Time | Report Name                              |
 |----------|------------------------------------------|
